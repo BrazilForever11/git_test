@@ -1,3 +1,6 @@
 this is first record in test file
 
 This line was created in brach 1, it should not be anywhere else.
+
+
+We are now in branch_2 adding more to it.
